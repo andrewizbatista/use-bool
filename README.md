@@ -56,7 +56,7 @@ const Usage = () => {
 
 ## <a name="contributing"></a>Contributing
 
-Want to help? Feel free to open an [Issue](https://github.com/andrewizbatista/use-bool/issues) or create a [Pull Request](<(https://github.com/andrewizbatista/use-bool/pulls)>) and let's get started 🚀
+Want to help? Feel free to open an [Issue](https://github.com/andrewizbatista/use-bool/issues) or create a [Pull Request](https://github.com/andrewizbatista/use-bool/pulls) and let's get started 🚀
 
 ## <a name="license"></a>License
 
