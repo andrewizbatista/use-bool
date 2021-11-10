@@ -4,7 +4,7 @@
 
 A React hook that encapsulates all the logic of a `boolean` value.
 
-![use-bool version](https://img.shields.io/npm/v/@andrewizbatista/use-bool?style=flat-square&color=yellow&label=NPM) ![use-bool bundle size](https://img.shields.io/bundlephobia/min/@andrewizbatista/use-bool?style=flat-square&color=blue&label=Package+Size) ![use-bool license](https://img.shields.io/npm/l/@andrewizbatista/use-bool?style=flat-square&color=green&label=License)
+![use-bool version](https://img.shields.io/npm/v/@andrewizbatista/use-bool?style=flat-square&color=yellow&label=NPM) ![use-bool minified size](https://img.shields.io/bundlephobia/min/@andrewizbatista/use-bool?style=flat-square&color=blue&label=Minified+Size) ![use-bool license](https://img.shields.io/npm/l/@andrewizbatista/use-bool?style=flat-square&color=green&label=License)
 
 ![created by @andrewizbatista](https://img.shields.io/badge/Created%20By-@andrewizbatista-crimson?style=flat-square)
 
