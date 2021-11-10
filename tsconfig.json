@@ -16,11 +16,11 @@
     "noImplicitThis": true,
     "noUnusedLocals": true,
     "noUnusedParameters": true,
-    "outDir": "./dist",
+    "outDir": "dist",
     "preserveConstEnums": true,
     "removeComments": true,
     "resolveJsonModule": true,
-    "rootDirs": ["src", "tests"],
+    "rootDir": "src",
     "strict": true,
     "strictBindCallApply": true,
     "strictFunctionTypes": true,
@@ -29,5 +29,6 @@
     "pretty": true,
     "target": "esnext"
   },
+  "include": ["src"],
   "exclude": ["node_modules", "tests", "dist"]
 }
